@@ -11,3 +11,6 @@ RSpec.configure do |config|
   #     --seed 1234
   config.order = 'default'
 end
+
+def current_age_for_birth_year
+end
